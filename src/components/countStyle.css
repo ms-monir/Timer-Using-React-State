@@ -1,0 +1,27 @@
+body {
+  box-sizing: border-box;
+  border: 1px solid #ede9e9;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.App {
+  background-color: aquamarine;
+  margin-bottom: 50px;
+}
+.Heading {
+  text-align: center;
+  font-weight: 300;
+  margin-bottom: 50px;
+}
+.Container {
+  width: 100%;
+  text-align: center;
+}
+.Btn {
+  width: 100px;
+  margin: 10px 20px;
+  padding: 10px 20px;
+  color: #efefef;
+  border: 1px solid grey;
+  color: #222222;
+}
